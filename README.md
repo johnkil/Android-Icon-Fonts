@@ -1,7 +1,7 @@
 Android Icon Font
 =================
 
-Material and Holo icon fonts.
+Material and Holo iconic fonts.
 
 ![](https://raw.githubusercontent.com/johnkil/Android-Icon-Fonts/master/Art/android-icon-fonts.png)
 
