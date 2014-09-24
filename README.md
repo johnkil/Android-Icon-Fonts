@@ -1,5 +1,5 @@
-Android Icon Font
-=================
+Android Icon Fonts
+==================
 
 Material and Holo iconic fonts.
 
