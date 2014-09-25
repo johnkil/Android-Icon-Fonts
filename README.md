@@ -1,6 +1,8 @@
 Android Icon Fonts
 ==================
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20Icon%20Fonts-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/996)
+
 Material and Holo iconic fonts.
 
 ![](https://raw.githubusercontent.com/johnkil/Android-Icon-Fonts/master/Art/android-icon-fonts.png)
