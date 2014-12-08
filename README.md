@@ -49,3 +49,6 @@ License
     limitations under the License.
 
 [1]: https://github.com/johnkil/Print
+
+[0]: https://github.com/google/material-design-icons
+[0]: https://github.com/opoloo/androidicons
