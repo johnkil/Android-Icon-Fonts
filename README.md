@@ -52,3 +52,4 @@ License
 
 [0]: https://github.com/google/material-design-icons
 [0]: https://github.com/opoloo/androidicons
+[0]: http://materialdesignicons.com
